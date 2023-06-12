@@ -1,0 +1,15 @@
+D:\My Bridgelab\UC6\bin\Debug\net6.0\UC6.exe
+D:\My Bridgelab\UC6\bin\Debug\net6.0\UC6.deps.json
+D:\My Bridgelab\UC6\bin\Debug\net6.0\UC6.runtimeconfig.json
+D:\My Bridgelab\UC6\bin\Debug\net6.0\UC6.dll
+D:\My Bridgelab\UC6\bin\Debug\net6.0\UC6.pdb
+D:\My Bridgelab\UC6\obj\Debug\net6.0\UC6.csproj.AssemblyReference.cache
+D:\My Bridgelab\UC6\obj\Debug\net6.0\UC6.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Bridgelab\UC6\obj\Debug\net6.0\UC6.AssemblyInfoInputs.cache
+D:\My Bridgelab\UC6\obj\Debug\net6.0\UC6.AssemblyInfo.cs
+D:\My Bridgelab\UC6\obj\Debug\net6.0\UC6.csproj.CoreCompileInputs.cache
+D:\My Bridgelab\UC6\obj\Debug\net6.0\UC6.dll
+D:\My Bridgelab\UC6\obj\Debug\net6.0\refint\UC6.dll
+D:\My Bridgelab\UC6\obj\Debug\net6.0\UC6.pdb
+D:\My Bridgelab\UC6\obj\Debug\net6.0\UC6.genruntimeconfig.cache
+D:\My Bridgelab\UC6\obj\Debug\net6.0\ref\UC6.dll
